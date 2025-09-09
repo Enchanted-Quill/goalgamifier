@@ -7,5 +7,5 @@ Make your life a game.
 - Ascend the leaderboard & earn exclusive upgrades & avatars!
 - Reclaim your life!
 ## Change Log
-9/8 - Created and copied over AI website template & set up frameworks
+9/8 - Created and copied over AI website template & set up frameworks  
 9/9 - Debugged template, updated Grok system prompt, created README
